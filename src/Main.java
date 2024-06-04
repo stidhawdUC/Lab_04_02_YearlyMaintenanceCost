@@ -29,5 +29,10 @@ public class Main {
                 "Fall.");
         System.out.println("Your yearly maintenance costs total " + costYear + ".");
 
+        // psuedocode:
+        // if costYear >= 10000
+        //    output "Consider a renter lifestyle."
+        // endIf
+
     }
 }
